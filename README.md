@@ -1,4 +1,4 @@
-# online_5_6
+# Motels UI
 
 A new Flutter project.
 
